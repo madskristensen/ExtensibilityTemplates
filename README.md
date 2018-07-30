@@ -1,4 +1,4 @@
-# Visual Studio Extensibility Teamplates
+# Visual Studio Extensibility Templates
 
 [![Build status](https://ci.appveyor.com/api/projects/status/kv1lxm7ltoacx444?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytemplates)
 
